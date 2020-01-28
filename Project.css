@@ -1,0 +1,54 @@
+.container{
+    font-size: large;
+    padding-top: 5%;
+    padding-left: 10px
+};
+.h1{
+    font-size: 150px;
+    text-align: center
+};
+.col-md-6 img{
+  padding-top: 175px;
+  padding-bottom: 150px;
+};
+
+.slid{
+  height: 150px;
+  width: 200px
+}
+#carouselExampleControls{
+  margin-bottom: 5%;
+  width: 700px;
+  height: 600px;
+ 
+}
+.icon{
+  width: 60px;
+  height: 70px;
+  padding-bottom: 15px
+}
+.footer{
+  background: lightgray;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px
+}
+.pjumb{
+  padding-left: 10px
+}
+.pic_carous{
+  margin-bottom: 5%
+}
+.pic{
+  height: 225px;
+  width: 275px;
+  padding-bottom: 20px
+}
+span{
+  font-weight: bold;
+  
+}
+.pBottom{
+  padding-left: 300px
+}
